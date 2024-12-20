@@ -1,0 +1,4 @@
+pydub==0.25.1
+ffmpeg
+python3-discogs-client
+python-dotenv
